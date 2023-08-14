@@ -1,5 +1,13 @@
 ### Hi there I'm Alla 👋
-I'm studing for Fullstack Developer at GoIT School
+I'm studing for Fullstack Developer at GoIT School 👩‍💻
+
+
+About me
+👩‍🎓 I' currently learning Frontend Dev, Backend Dev
+📫 You can reach me by <a href="mailto:urt2509@gmail.com">email</a> 
+
+
+Langues and Tools
 
 <!--
 **urt2509/urt2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

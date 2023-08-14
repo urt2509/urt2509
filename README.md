@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Alla 👋
+I'm studing for Fullstack Developer at GoIT School
 
 <!--
 **urt2509/urt2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

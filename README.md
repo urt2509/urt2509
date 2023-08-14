@@ -7,7 +7,7 @@
   <p>👩‍🎓 I'm currently learning Frontend Dev, Backend Dev</li>
   <p>📫 You can reach me by <a href="mailto:urt2509@gmail.com">email</a></li>
   <p>✅ Proficiently speak Polish </p>
-  <p>✅ Learning English </p>
+  <p>🌎 Learning English </p>
 </div>
 
 <h4>My stack</h4>

@@ -1,6 +1,7 @@
-### Hi there, I'm Alla 👋
-<p>I'm studing for Fullstack Developer at GoIT School 👩‍💻</p>
-<br></br>
+### <h2 align="center">Hi there, I'm Alla 👋</h2>
+
+<p align="center">I'm studing for Fullstack Developer at GoIT School 👩‍💻</p>
+
 <h4>About me</h4>
 <div>
   <p>👩‍🎓 I'm currently learning Frontend Dev, Backend Dev</li>

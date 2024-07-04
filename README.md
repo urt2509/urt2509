@@ -1,10 +1,10 @@
 ### <h2 align="center">Hi there, I'm Alla 👋</h2>
 
-<p align="center">I'm studing for Fullstack Developer at GoIT School 👩‍💻</p>
+<p align="center">I'm studying for Python Software Engineer at GoIT School 👩‍💻</p>
 
 <h4>About me</h4>
 <div>
-  <p>👩‍🎓 I'm currently learning Frontend Dev, Backend Dev</li>
+  <p>👩‍🎓 I'm currently learning Python Web, Frontend Dev, Backend Dev</li>
   <p>📫 You can reach me by <a href="mailto:urt2509@gmail.com">email</a></li>
   <p>✅ Proficiently speak Polish </p>
   <p>🌎 Learning English </p>
